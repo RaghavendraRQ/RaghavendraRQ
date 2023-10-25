@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently studying computer science
+I'm currently learning git-hub
+I'm looking to collaborate on cyber-security projects
+Pronouns: he/him
+
+
 <!--
 **sai2wwe/sai2wwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
