@@ -57,9 +57,8 @@ Hello! I'm an engineering student with a strong focus on cutting-edge technologi
 
 ## 🖥️ How to Reach Me
 
-- **GitHub:** [Your GitHub Profile URL]
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **GitHub:** https://github.com/RaghavendraRQ/
+- **Email:** sa783191@gmail.com
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions about cutting-edge technology! 🚀
 
