@@ -1,5 +1,69 @@
 # 💫 About Me:
-# Welcome to My GitHub<br><br>Hello! I'm an ethical hacker and developer with a strong focus on cutting-edge technologies like Post-Quantum Cryptography (PQC), Secure Multi-Party Computation (SMPC), and Fully Homomorphic Encryption (FHE). I also have experience with Blockchain, Federated Learning, and Machine Learning, among other technologies.<br><br>## 🚀 Current Focus<br><br>### Post-Quantum Cryptography (PQC)<br><br>- **Implemented:** SMPC in Python and C++<br>- **In Progress:** ML-DSA algorithms like SPHINCS+ and Dilithium<br>- **Next Step:** Fully Homomorphic Encryption (FHE) implementation from scratch<br><br>### Federated Learning<br><br>- Real-time monitoring of sensor data using the Flower framework<br>- Integrating RNNs, MinHash, and CNNs for malware classification with SHAP and LIME for model interpretability<br><br>### Blockchain & Solidity<br><br>- Learning and building smart contracts<br>- Exploring decentralized applications and secure transaction systems<br><br>## 🛠️ Technical Skills<br><br>- **Languages:** Python, C++, Solidity, JavaScript (MERN stack)<br>- **Frameworks:** Flower, React, Node.js<br>- **Tools:** CLion, Brave browser<br>- **Hardware:** Raspberry Pi<br>- **Operating System:** Arch Linux<br><br>## 🌟 Notable Projects<br><br>### Secure Multi-Party Computation<br><br>- Implemented OT using Elliptic Curve Cryptography (ECC)<br>- Dynamic configuration module management for cryptographic constants<br><br>### Federated Learning with Real-Time Monitoring<br><br>- Raspberry Pi as a client and laptop as a server using the Flower framework<br>- Achieved sensor data training and model updates<br><br>### Blockchain Projects<br><br>- Smart contract development using Solidity<br>- Working on decentralized applications<br><br>### MERN Stack Development<br><br>- Built a Library Management System as a complete MERN stack project<br><br>## 📚 Learning Journey<br><br>- Continuously expanding my expertise in cryptography, blockchain, and AI technologies<br>- Passionate about creating secure, efficient, and innovative systems<br><br>## 🖥️ How to Reach Me<br><br>- **GitHub:** [Your GitHub Profile URL]<br>- **Email:** [Your Email Address]<br>- **LinkedIn:** [Your LinkedIn Profile URL]<br><br>Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions about cutting-edge technology! 🚀<br><br>
+# Welcome to My GitHub
+
+Hello! I'm an engineering student with a strong focus on cutting-edge technologies like Post-Quantum Cryptography (PQC), Secure Multi-Party Computation (SMPC), and Fully Homomorphic Encryption (FHE). I also have experience with Blockchain, Federated Learning, and Machine Learning, among other technologies.
+
+## 🚀 Current Focus
+
+### Post-Quantum Cryptography (PQC)
+
+- **Implemented:** SMPC in Python and C++
+- **In Progress:** ML-DSA algorithms like SPHINCS+ and Dilithium
+- **Next Step:** Fully Homomorphic Encryption (FHE) implementation from scratch
+
+### Federated Learning
+
+- Real-time monitoring of sensor data using the Flower framework
+- Integrating RNNs, MinHash, and CNNs for malware classification with SHAP and LIME for model interpretability
+
+### Blockchain & Solidity
+
+- Learning and building smart contracts
+- Exploring decentralized applications and secure transaction systems
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, C++, Solidity, JavaScript (MERN stack)
+- **Frameworks:** Flower, React, Node.js
+- **Tools:** CLion, Brave browser
+- **Hardware:** Raspberry Pi
+- **Operating System:** Arch Linux
+
+## 🌟 Notable Projects
+
+### Secure Multi-Party Computation
+
+- Implemented OT using Elliptic Curve Cryptography (ECC)
+- Dynamic configuration module management for cryptographic constants
+
+### Federated Learning with Real-Time Monitoring
+
+- Raspberry Pi as a client and laptop as a server using the Flower framework
+- Achieved sensor data training and model updates
+
+### Blockchain Projects
+
+- Smart contract development using Solidity
+- Working on decentralized applications
+
+### MERN Stack Development
+
+- Built a Library Management System as a complete MERN stack project
+
+## 📚 Learning Journey
+
+- Continuously expanding my expertise in cryptography, blockchain, and AI technologies
+- Passionate about creating secure, efficient, and innovative systems
+
+## 🖥️ How to Reach Me
+
+- **GitHub:** [Your GitHub Profile URL]
+- **Email:** [Your Email Address]
+- **LinkedIn:** [Your LinkedIn Profile URL]
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions about cutting-edge technology! 🚀
+
+
 
 
 ## 🌐 Socials:
