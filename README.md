@@ -1,33 +1,34 @@
 # 💫 About Me:
 # Welcome to My GitHub
 
-Hello! I'm an engineering student with a strong focus on cutting-edge technologies like Post-Quantum Cryptography (PQC), Secure Multi-Party Computation (SMPC), and Fully Homomorphic Encryption (FHE). I also have experience with Blockchain, Federated Learning, and Machine Learning, among other technologies.
+Hello! I'm an engineering student with a strong focus on technologies like Post-Quantum Cryptography (PQC), Secure Multi-Party Computation (SMPC), Fully Homomorphic Encryption (FHE), Blockchain, Web Development (Full Stack), and Machine Learning. I also have some experience with Web Development, Blockchain, Federated Learning, and Machine Learning, among other technologies.
 
 ## 🚀 Current Focus
 
 ### Post-Quantum Cryptography (PQC)
 
-- **Implemented:** SMPC in Python and C++
-- **In Progress:** ML-DSA algorithms like SPHINCS+ and Dilithium
-- **Next Step:** Fully Homomorphic Encryption (FHE) implementation from scratch
+- **Implementing:** SMPC in Python and C++, kyber crystal lattice (MLKEM).
+- **In Progress:** ML-DSA and Falcon algorithms in PQC
+- **Next Step:** Fully Homomorphic Encryption (FHE).
 
 ### Federated Learning
 
 - Real-time monitoring of sensor data using the Flower framework
-- Integrating RNNs, MinHash, and CNNs for malware classification with SHAP and LIME for model interpretability
+- Used RaspberryPI and temperature sensors for a demo project
+- **Next Step:** Federated Learning in HealthCare.
 
 ### Blockchain & Solidity
 
 - Learning and building smart contracts
 - Exploring decentralized applications and secure transaction systems
+- **Next Step:** Implementing DAPP for video-sharing, and social-media.
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, C++, Solidity, JavaScript (MERN stack)
-- **Frameworks:** Flower, React, Node.js
-- **Tools:** CLion, Brave browser
+- **Languages:** Python, C++, Solidity, JavaScript/TypeScript (MERN stack), SQL
+- **Frameworks:** Flower, React, Node.js, Nextjs, Express
+- **Tools:** CLion, PyCharm, VSCode
 - **Hardware:** Raspberry Pi
-- **Operating System:** Arch Linux
 
 ## 🌟 Notable Projects
 
@@ -60,7 +61,7 @@ Hello! I'm an engineering student with a strong focus on cutting-edge technologi
 - **GitHub:** https://github.com/RaghavendraRQ/
 - **Email:** sa783191@gmail.com
 
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions about cutting-edge technology! 🚀
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions about cutting-edge technology!
 
 
 
