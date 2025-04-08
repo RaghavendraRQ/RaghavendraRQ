@@ -9,8 +9,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+<!-- ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 ![My Skills](https://skillicons.dev/icons?i=nodejs,bun,express&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=cpp,python,go,rust,solidity&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode,figma)
 ![My Skills](https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes)
+ -->
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
