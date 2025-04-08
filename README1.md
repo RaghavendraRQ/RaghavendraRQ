@@ -16,14 +16,18 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes)
  -->
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,go,rust,solidity" /> <br/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,go,rust,solidity,html,css,js,ts" /> <br/>
     <img src="https://skillicons.dev/icons?i=clion,pycharm,vscode,figma" />
 </p>
 <h3 align="left">Web Development:</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,bun,express&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,express,mongodb,mysql,nginx,postman,prisma&theme=light" />
 </p>
 <h3 align="left">DevOps:</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes,aws" />
+</p>
+<h3 align="left">AI:</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=light" />
 </p>
