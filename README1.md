@@ -15,4 +15,4 @@
 ![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode,figma)
 ![My Skills](https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes)
  -->
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ [My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
