@@ -16,7 +16,8 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes)
  -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,go,rust,solidity" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,express&theme=light" />
+    <img src="https://skillicons.dev/icons?i=clion,pycharm,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes" />
 </p>
