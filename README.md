@@ -1,8 +1,39 @@
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sai_Raghavendra_P)
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Header](./github-header-image.png)
 
----
-[![](https://visitcount.itsvg.in/api?id=RaghavendraRQ&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Socials:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/sai-raghavendra-p-8431872a9" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sai-raghavendra-p-8431872a9" />
+  </a>
+  <a href="https://www.codechef.com/users/raghavendrarq" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/sai783191" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="sai783191"/>
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<!-- ![My Skills](https://skillicons.dev/icons?i=html,css,js)
+![My Skills](https://skillicons.dev/icons?i=nodejs,bun,express&theme=light)
+![My Skills](https://skillicons.dev/icons?i=cpp,python,go,rust,solidity&theme=light)
+![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes)
+ -->
+<p>
+    <img src="https://skillicons.dev/icons?i=cpp,python,go,rust,solidity,html,css,js,ts" /> <br/>
+    <img src="https://skillicons.dev/icons?i=clion,pycharm,vscode,figma" />
+</p>
+<h3 align="left">Web Development:</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,express,mongodb,mysql,nginx,postman,prisma&theme=light" />
+</p>
+<h3 align="left">DevOps:</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes,aws" />
+</p>
+<h3 align="left">AI:</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=light" />
+</p>
