@@ -8,7 +8,7 @@
 <a href="https://www.leetcode.com/sai783191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai783191" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <!-- ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 ![My Skills](https://skillicons.dev/icons?i=nodejs,bun,express&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=cpp,python,go,rust,solidity&theme=light)
@@ -16,11 +16,14 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes)
  -->
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,go,rust,solidity" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,go,rust,solidity" /> <br/>
+    <img src="https://skillicons.dev/icons?i=clion,pycharm,vscode,figma" />
 </p>
-<h3 align="left">Tools and Technologies:</h3>
+<h3 align="left">Web Development:</h3>
 <p>
     <img src="https://skillicons.dev/icons?i=nodejs,bun,express&theme=light" />
-    <img src="https://skillicons.dev/icons?i=clion,pycharm,vscode,figma" />
+</p>
+<h3 align="left">DevOps:</h3>
+<p>
     <img src="https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes" />
 </p>
