@@ -9,8 +9,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,express&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,rust,solidity&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode,figma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=nodejs,bun,express&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=cpp,python,go,rust,solidity&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode,figma)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,arch,docker,kubernetes)](https://skillicons.dev)
